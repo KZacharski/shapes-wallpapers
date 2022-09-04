@@ -13,7 +13,7 @@
     True means yes
     False means no
     -->
-    <bool name="notifications_enabled_by_default">true</bool>
+    <bool name="notifications_enabled_by_default">false</bool>
 
     <!--
     Do you want animations to be enabled for all your users?
@@ -23,7 +23,7 @@
     <bool name="animations_enabled_by_default">true</bool>
 
     <!-- Privacy Policy link or url -->
-    <string name="privacy_policy_link">""</string>
+    <string name="privacy_policy_link">"https://cdn.puffercat.xyz/c/shapes/privacy"</string>
 
     <!-- Terms and Conditions link or url -->
     <string name="terms_conditions_link">""</string>

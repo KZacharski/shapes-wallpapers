@@ -4,15 +4,15 @@
     <!-- Don't change the parent style -->
     <style name="MyApp.Default.MaterialYou" parent="Frames.Default.MaterialYou">
         <item name="bottomNavigationStyle">@style/MyApp.BottomNavigationView.MaterialYou</item>
-        <item name="customFontBold">@font/manrope_bold_fam</item>
-        <item name="customFontNormal">@font/manrope_normal_fam</item>
+        <item name="customFontBold">@font/open_sans_bold</item>
+        <item name="customFontNormal">@font/open_sans_regular</item>
     </style>
 
     <!-- Don't change the parent style -->
     <style name="MyApp.Default.Amoled.MaterialYou" parent="Frames.Default.Amoled.MaterialYou">
         <item name="bottomNavigationStyle">@style/MyApp.BottomNavigationView.MaterialYou</item>
-        <item name="customFontBold">@font/manrope_bold_fam</item>
-        <item name="customFontNormal">@font/manrope_normal_fam</item>
+        <item name="customFontBold">@font/open_sans_bold</item>
+        <item name="customFontNormal">@font/open_sans_regular</item>
     </style>
 
     <!-- Don't change the parent style -->
@@ -27,7 +27,7 @@
 
             Learn more: https://developer.android.com/reference/com/google/android/material/bottomnavigation/LabelVisibilityMode
         -->
-        <item name="labelVisibilityMode">auto</item>
+        <item name="labelVisibilityMode">selected</item>
     </style>
 
 </resources>

@@ -1,27 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
-        <item>https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</item>
-        <item>https://ssl.gstatic.com/images/branding/product/2x/avatar_square_grey_512dp.png</item>
+        <item>https://cdn.puffercat.xyz/c/shapes/logo.png</item>
+        <item>https://cdn.puffercat.xyz/c/branding/logo-basic.png</item>
+        <item>https://cdn.puffercat.xyz/c/shapes/myapps.png</item>
+        <item>https://cdn.puffercat.xyz/c/shapes/other.png</item>
+        <item>https://cdn.puffercat.xyz/c/shapes/favorite.png</item>
     </string-array>
 
     <string-array name="credits_titles">
-        <item>Your Name</item>
-        <item>Another Name</item>
+        <item>Shapes - Wallpapers</item>
+        <item>Casper Zacharski</item>
+        <item>My Personalization Apps</item>
+        <item>My Apps</item>
+        <item>Recommended Apps</item>
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>Details of first credited person</item>
-        <item>Details of another credited person</item>
+        <item>Monet-compliant wallpapers in many colors</item>
+        <item>AKA Puffercat</item>
+        <item>Check out my ways to customize your phone</item>
+        <item>My apps from different categories</item>
+        <item>Great personalization apps from other creators</item>
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Google+|Instagram</item>
-        <item>Facebook|Website|Twitter</item>
+        <item>Download Files|App Source</item>
+        <item>Website|Twitter|GitHub</item>
+        <item>Lawnicons (Puffercat\'s Fork)|Blurry Wallpapers</item>
+        <item>Tipper by myCALC</item>
+        <item>DarkPapers|Wallfever</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://www.google.com/+JahirFiquitivaR|http://instagram.com/jahirfiquitiva</item>
-        <item>https://facebook.com/|https://jahir.dev/|https://twitter.com/jahirfiquitiva</item>
+        <item>https://puffercat.gumroad.com/l/shapeswalls|https://github.com/KZacharski/shapes-wallpapers</item>
+        <item>https://puffercat.xyz|https://twitter.com/puffercatt/|https://github.com/KZacharski</item>
+        <item>https://pufferrom.t.me|https://play.google.com/store/apps/details?id=xyz.puffercat.blurrywalls.android</item>
+        <item>https://play.google.com/store/apps/details?id=pl.kacperzacharski.puffercat.tipper</item>
+        <item>https://play.google.com/store/apps/details?id=com.dark.papers|https://play.google.com/store/apps/details?id=com.amaan.wallfever</item>
     </string-array>
 </resources>

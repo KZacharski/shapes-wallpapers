@@ -15,22 +15,22 @@
         - Frames.SplashScreen.Amoled.MaterialYou
     -->
     <style name="MyApp.SplashScreen" parent="Frames.SplashScreen">
-        <item name="customFontBold">@font/manrope_bold_fam</item>
-        <item name="customFontNormal">@font/manrope_normal_fam</item>
+        <item name="customFontBold">@font/open_sans_bold</item>
+        <item name="customFontNormal">@font/open_sans_regular</item>
     </style>
 
     <!-- Don't change the parent style -->
     <style name="MyApp.Default" parent="Frames.Default">
         <item name="bottomNavigationStyle">@style/MyApp.BottomNavigationView</item>
-        <item name="customFontBold">@font/manrope_bold_fam</item>
-        <item name="customFontNormal">@font/manrope_normal_fam</item>
+        <item name="customFontBold">@font/open_sans_bold</item>
+        <item name="customFontNormal">@font/open_sans_regular</item>
     </style>
 
     <!-- Don't change the parent style -->
     <style name="MyApp.Default.Amoled" parent="Frames.Default.Amoled">
         <item name="bottomNavigationStyle">@style/MyApp.BottomNavigationView</item>
-        <item name="customFontBold">@font/manrope_bold_fam</item>
-        <item name="customFontNormal">@font/manrope_normal_fam</item>
+        <item name="customFontBold">@font/open_sans_bold</item>
+        <item name="customFontNormal">@font/open_sans_regular</item>
     </style>
 
     <!-- Don't change the parent style -->
@@ -45,7 +45,7 @@
 
             Learn more: https://developer.android.com/reference/com/google/android/material/bottomnavigation/LabelVisibilityMode
         -->
-        <item name="labelVisibilityMode">auto</item>
+        <item name="labelVisibilityMode">selected</item>
     </style>
 
 </resources>
