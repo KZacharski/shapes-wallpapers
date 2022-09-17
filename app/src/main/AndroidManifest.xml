@@ -2,9 +2,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="xyz.puffercat.shapes.android">
 
-    <!-- Permission required for donations. Remove it if you don't use it -->
-    <uses-permission android:name="com.android.vending.BILLING" />
-
     <application
         android:name="xyz.puffercat.shapes.android.MyApplication"
         android:allowBackup="true"

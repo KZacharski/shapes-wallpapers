@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.0.3" />
-    <item text="Modified the splash screen" />
-    <item text="Made the bold font thinner" />
+    <version title="v1.0.4" />
+    <item text="Disabled IAP support" />
+    <item text="" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>
